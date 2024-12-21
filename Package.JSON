@@ -1,0 +1,21 @@
+
+{
+    "name": "consolidacion-m07",
+    "version": "1.0.0",
+    "description": "Consolidacion Modulo 7",
+    "main": "server.js",
+    "devDependencies": {},
+  
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+  
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "pg": "^8.13.1",
+      "sequelize": "^6.37.5"
+    }
+  }
